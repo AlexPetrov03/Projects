@@ -1,3 +1,4 @@
+// A functioning Blockchain written in C++. It was before we learned how classes function so it only uses structures.
 #include <iostream>
 #include <chrono>
 #include <cstring>
